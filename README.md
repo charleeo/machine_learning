@@ -1,4 +1,3 @@
-<include a CircleCI status badge, here>
 [![<charleeo>](https://circleci.com/gh/charleeo/machine_learning.svg?style=svg)](https://app.circleci.com/pipelines/github/charleeo/machine_learning)
 
 ## Project Overview
